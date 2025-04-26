@@ -1,5 +1,7 @@
 package org.devops
 
-dev PrintMes(conten){
-  println(conten)
+class tools {
+    static void PrintMes(String message) {
+        println message
+    }
 }
