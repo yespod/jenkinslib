@@ -1,5 +1,5 @@
 package org.devops
 
-dev printMes(conten){
+dev PrintMes(conten){
   println(conten)
 }
